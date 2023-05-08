@@ -1,6 +1,8 @@
 # Import the dependencies.
 
+# Note: always close session after retrieval of data.
 
+session.close()
 
 #################################################
 # Database Setup
