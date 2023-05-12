@@ -1,14 +1,17 @@
 # SQLAlchemy-Challenge: Module #10
 
-Hawaii Precipitation Boxplot by Month
+Mean Daily Precipitation in Hawaii of the Course of a Year
 
-![alt](https://github.com/ethanwright96/sqlalchemy-challenge/blob/main/SurfsUp/Results/monthly_precipitation_boxplot.png)
+![alt](https://github.com/ethanwright96/sqlalchemy-challenge/blob/main/SurfsUp/Results/mean_daily_precipitation_plot.png)
 
 ## Description
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
 Part I: Analyze and Explore Climate Data using SQLAlchemy
+
+Hawaii Precipitation Boxplot by Month
+![alt](https://github.com/ethanwright96/sqlalchemy-challenge/blob/main/SurfsUp/Results/monthly_precipitation_boxplot.png)
 
 Part II: Design a Climate App using Flask
 
