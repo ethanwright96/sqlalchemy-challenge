@@ -11,8 +11,8 @@ Part II: Design a Climate App using Flask
 ## Table of Contents
 
 ### I. SurfsUp
-###   i. Resources
-###   ii. Results
+###   i. [Resources](https://github.com/ethanwright96/sqlalchemy-challenge/tree/main/SurfsUp/Resources)
+###   ii. [Results](https://github.com/ethanwright96/sqlalchemy-challenge/tree/main/SurfsUp/Results)
 ###   iii. climate_starter.ipynb
 ###   iv. hawaii_prcp_temp.ipynb
 ###   v. app.py
