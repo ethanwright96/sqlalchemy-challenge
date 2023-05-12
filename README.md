@@ -4,7 +4,7 @@
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
-## Part I: Analyze and Explore Climate Data using SQLAlchemy (Displayed below: a sample of two original data visualizations)
+## Part I: Analyze and Explore Climate Data using SQLAlchemy 
 
 
 ![alt](https://github.com/ethanwright96/sqlalchemy-challenge/blob/main/SurfsUp/Results/mean_daily_precipitation_plot.png)
