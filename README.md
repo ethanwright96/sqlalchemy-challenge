@@ -6,11 +6,14 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 Part I: Analyze and Explore Climate Data using SQLAlchemy (Displayed below: a sample of two original data visualizations)
 
-Mean Daily Precipitation in Hawaii of the Course of a Year
+
 ![alt](https://github.com/ethanwright96/sqlalchemy-challenge/blob/main/SurfsUp/Results/mean_daily_precipitation_plot.png)
 
-Hawaii Precipitation Boxplot by Month
+
+
 ![alt](https://github.com/ethanwright96/sqlalchemy-challenge/blob/main/SurfsUp/Results/monthly_precipitation_boxplot.png)
+
+
 
 Part II: Design a Climate App using Flask
 
