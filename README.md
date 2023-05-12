@@ -1,5 +1,9 @@
 # SQLAlchemy-Challenge: Module #10
 
+Hawaii Precipitation Boxplot by Month
+
+![alt](https://github.com/ethanwright96/sqlalchemy-challenge/blob/main/SurfsUp/Results/monthly_precipitation_boxplot.png)
+
 ## Description
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
